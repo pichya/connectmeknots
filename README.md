@@ -1,5 +1,5 @@
 # Connect Me Knots 
- 2021 Oculus Hackathon Entry using Presence Platform API
+ 2021 Facebook XR Hackathon Entry using Presence Platform API
 
 # Wit.ai app ID
 413160083805588 
