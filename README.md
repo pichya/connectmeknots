@@ -13,3 +13,11 @@ VR hand tracking opens a door to exploring novel and unique gaming interactions 
 Gameplay table appears in passthrough mode. Use audio commands to change the level of the table and start the next level (3 total). Uses hand tracking to detect grab gesture of the lasso.  
 
 Bug reported: After adjusting the height of the game table to avoid misalignment give audio command to "Start level #"
+
+#Planned Features
+• Better tying/pulling hand gesture to connect rope to dot
+• Timed games
+• Audio & Particle FX
+• More complex levels
+• Oscilating table, Intermittant Blinking dots
+• Multiplayer Mode!
